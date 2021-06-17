@@ -7,6 +7,6 @@ char name[] = "Alia Bhat"
 greeting(name);
 }
 
-void greeting(char name2[]) {
-printf("Hey, Where was you?.. %s", name2);
+void greeting(char name100[]) {
+printf("Hey, Where was you?.. %s", name100);
 } 
